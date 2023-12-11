@@ -49,7 +49,7 @@ export const Timeline = () => {
             />
             <TimelineCard
               heading={"Registration Ends"}
-              timing={"17th Dec 2023"}
+              timing={"15th Dec 2023"}
               dotColor={"bg-[#008000]"}
             />
             <TimelineDay day={1} date={"16th Dec 2023"} />
