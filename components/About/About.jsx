@@ -10,7 +10,7 @@ export const About = () => {
       
       <AboutRow
         heading={"About Hack The Verse"}
-        img={"./images/clubLogo.png"}
+        img={"./images/11.png"}
         isReverse
       >
              <p>

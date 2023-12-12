@@ -4,7 +4,7 @@ import React from "react";
 import { ApplyWithDevfolioBtn } from "../ApplyWithDevfolioBtn/ApplyWithDevfolioBtn";
 // import Logo from "../../public/images/Fin-X-Thon.png";
 // import Pogo from "../../public/images/new.svg";
-import Logo from "../../public/images/logo.png";
+import Logo from "../../public/images/12.png";
 import Pogo from "../../public/images/theVerse-b.png";
 import DevfolioWhite from "../../public/images/devfolio-white.svg";
 import MainImage from "../../public/images/main-img.png";
@@ -59,8 +59,8 @@ export const Main = () => {
                     
                 </motion.div>
                 
-    <Image
-                        src={Pogo}
+    {/* <Image
+                        src={}
                         
             height={120}
             width={900}
@@ -68,9 +68,9 @@ export const Main = () => {
                         alt={'Green Saber'}
                         style={{ alignSelf: 'center' }}
 
-                    />
+                    /> */}
        
-        <h1 className="text-center text-glow text-lg mb-4 md:text-2xl font-semibold">
+        <h1 className="text-center text-glow text-lg mb-5 mt-5 md:text-2xl font-semibold">
            A National Level Hackathon
         </h1>
         <h1 className="text-center text-glow text-lg mb-4 md:text-3xl font-semibold">

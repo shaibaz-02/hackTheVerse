@@ -14,7 +14,7 @@ export const PrizeCard = ({ bgColor, heading, amount, img }) => {
       key={heading}
       className={`flex w-full gap-4 justify-between max-w-sm md:max-w-lg items-center rounded px-4 ${bgColor}`}
     >
-      <div className="max-w-[25rem]">
+      <div className="max-w-[40rem]">
         <Image
           src={img}
           width={Medal.width}

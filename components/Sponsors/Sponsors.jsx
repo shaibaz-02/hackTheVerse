@@ -16,9 +16,9 @@ export const Sponsors = () => {
         />
         <SponsorRow
           imgArr={[
-            { name: "Swecha", url: "https://swecha.org/" },
+            { name: "swe", url: "https://swecha.org/" },
             { name: "flutter", url: "#" },
-            { name: "TensorFlow", url: "#" },
+            { name: "Ten", url: "#" },
           ]}
         />
             

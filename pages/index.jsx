@@ -31,7 +31,7 @@ const Home=()=>{
     <>
       <Head>
         <title>Hack The Verse | Hackathon</title>
-        <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+        {/* <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" /> */}
         <script
           defer
           data-domain=""
